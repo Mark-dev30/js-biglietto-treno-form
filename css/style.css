@@ -4,6 +4,36 @@
     box-sizing: border-box;
 }
 
+/* UTILITY */
+
+.bg_grey{
+    background-color: #cccccc;
+}
+
+.bg_red{
+    background-color: #eb1821;
+}
+
+.bg_green{
+    background-color: #00a650;
+}
+
 /* STRUCTURE */
 
+.container_page{
+    width: 100%;
+}
+
+header, main{
+    margin: 0 auto;
+    width: 95%;
+}
+
+.height{
+    height: 200px;
+}
+
+.qr_code{
+    width: 60%;
+}
 
